@@ -1,13 +1,13 @@
 # Tiimer
 
-###Set up
+### Set up
 first install espeak :
 `$ sudo apt install espeak`
 
 You can test this with
-`$ espeak -v en "heelo world`
+`$ espeak -v en "hello world"`
 
-###Create an alias
+### Create an alias
 open you bashrc file :
 `sudo nano ~\.bashrc`
 then add this line at the end of the file :
@@ -15,13 +15,13 @@ then add this line at the end of the file :
 don't forget to update your bashrc file :
 `source ~\.bashrc '`
 
-###Use
+### Use
 Create a timer with seconds :
 `tiime -s 5`
 Start a 5 seconds timer.
 You should here a 
 
-###Options
+### Options
 |  Option |  Description |
 | ------------ | ------------ |
 | -s [NUM] | create a timer of [NUM] seconds  |
