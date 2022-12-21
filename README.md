@@ -19,7 +19,6 @@ don't forget to update your bashrc file :
 Create a timer with seconds :
 `tiime -s 5`
 Start a 5 seconds timer.
-You should here a 
 
 ### Options
 |  Option |  Description |
